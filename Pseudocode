@@ -1,0 +1,36 @@
+START
+
+Create a string variable for user input
+
+Ask the user to enter information
+
+Open CSC450_CT5_mod5.txt in append mode
+
+IF the file cannot be opened
+    Display an error message
+    End program
+END IF
+
+Write the user's information to the file
+
+Close the file
+
+Open CSC450_CT5_mod5.txt for reading
+
+Read all characters from the file
+
+Store the characters in a string
+
+Close the file
+
+Reverse all characters in the string
+
+Open CSC450-mod5-reverse.txt for writing
+
+Write the reversed characters to the new file
+
+Close the reversed file
+
+Display a success message
+
+END
